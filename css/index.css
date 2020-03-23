@@ -39,6 +39,10 @@ nav a{
     text-decoration: none;
     color: black;
 }
+.jumbo{
+    width:100%;
+    height:250px
+}
 header{
     margin:20px 0px;
 }
@@ -81,7 +85,7 @@ p {
 }
 
 .container {
-    width: 800px;
+    width: 100%;
     margin: 0 auto;
 }
 
@@ -119,7 +123,7 @@ p {
 
 .middle-content .boxes .box1 {
     width: 12.5%;
-    height: 100px;
+    height: 200px;
     margin: 20px 2.5%;
     color: white;
     background: teal;
@@ -130,7 +134,7 @@ p {
 
 .middle-content .boxes .box2 {
     width: 12.5%;
-    height: 100px;
+    height: 200px;
     margin: 20px 2.5%;
     color: white;
     background: gold;
@@ -141,7 +145,7 @@ p {
 
 .middle-content .boxes .box3 {
     width: 12.5%;
-    height: 100px;
+    height: 200px;
     margin: 20px 2.5%;
     color: white;
     background: cadetblue;
@@ -152,7 +156,7 @@ p {
 
 .middle-content .boxes .box4 {
     width: 12.5%;
-    height: 100px;
+    height: 200px;
     margin: 20px 2.5%;
     color: white;
     background: coral;
@@ -163,7 +167,7 @@ p {
 
 .middle-content .boxes .box5 {
     width: 12.5%;
-    height: 100px;
+    height: 200px;
     margin: 20px 2.5%;
     color: white;
     background: crimson;
@@ -174,7 +178,7 @@ p {
 
 .middle-content .boxes .box6 {
     width: 12.5%;
-    height: 100px;
+    height: 200px;
     margin: 20px 2.5%;
     color: white;
     background: forestgreen;
@@ -184,7 +188,7 @@ p {
 }
 .middle-content .boxes .box7 {
     width: 12.5%;
-    height: 100px;
+    height: 200px;
     margin: 20px 2.5%;
     color: white;
     background: darkorchid;
@@ -194,7 +198,7 @@ p {
 }
 .middle-content .boxes .box8 {
     width: 12.5%;
-    height: 100px;
+    height: 200px;
     margin: 20px 2.5%;
     color: white;
     background: hotpink;
@@ -204,7 +208,7 @@ p {
 }
 .middle-content .boxes .box9 {
     width: 12.5%;
-    height: 100px;
+    height: 200px;
     margin: 20px 2.5%;
     color: white;
     background: indigo;
@@ -214,7 +218,7 @@ p {
 }
 .middle-content .boxes .box10{
     width: 12.5%;
-    height: 100px;
+    height: 200px;
     margin: 20px 2.5%;
     color: white;
     background: dodgerblue;
@@ -253,4 +257,7 @@ footer nav {
 footer nav a {
     color: white;
     text-decoration: none;
+}
+main{
+    margin:30px 50px;
 }
