@@ -33,14 +33,20 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
+    tags that give code meaning.
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+    inline wraps won't create a break in flow, height and width have no effect
+    block breaks flow on a new line and can nest, starts on new line,margin auto can center horizontally.
 
 3. What are the 4 areas of the box model?
+    copntent padding border margin
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
+    x or cross axis
 
 5. Explain why git is valuable to a team of developers.
+    it allows you to fork and work on your own section. it allows you to commit and go back to previous code. it also allows the main moderator to review code before submitting changes to the master copy.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
